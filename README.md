@@ -42,3 +42,7 @@ TBD
 
 # Newsletters
 - [SynBioBeta](https://synbiobeta.com/subscribe/)
+
+# Offline
+- [Local DIY bio lab](https://sphere.diybio.org/)
+- Audit classes at a local university
