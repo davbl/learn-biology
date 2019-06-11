@@ -25,6 +25,11 @@ TBD
 - Crash Course [Biology](https://www.youtube.com/watch?v=QnQe0xW_JY4&list=PL3EED4C1D684D3ADF) and [Chemistry](https://www.youtube.com/watch?v=uVFCOfSuPTo&list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr)
 - [Bozeman Science](https://www.youtube.com/user/bozemanbiology)
 - [Great Courses Plus](https://www.thegreatcoursesplus.com/)
+  - Biology
+  - Microbiology
+  - Understanding Genetics
+  - Chemistry and Our Universe
+  - Foundations of Organic Chemistry
 - [The Thought Emporium](https://www.youtube.com/user/TheChemlife)
 - [David Ishee](https://www.youtube.com/channel/UCftNyK6c9JdIFTQ2TLQqm_g)
 
