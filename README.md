@@ -45,6 +45,9 @@ TBD
 - [Evolving Ourselves: Redesigning the Future of Humanity – One Gene at a Time](https://smile.amazon.com/Evolving-Ourselves-Redesigning-Future-Humanity-One/dp/0143108344) by Juan Enriquez and Steve Gullans
 - [The Gene: An Intimate History](https://smile.amazon.com/Gene-Intimate-History-Siddhartha-Mukherjee/dp/147673352X) by Siddhartha Mukherjee
 
+# Podcasts
+TBD
+
 # Newsletters
 - [SynBioBeta](https://synbiobeta.com/subscribe/)
 
