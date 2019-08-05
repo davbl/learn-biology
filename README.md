@@ -49,7 +49,6 @@ TBD
   - Molecular Biology
   - Biochemistry
   - Physiology
-
 - [Books by Nick Lane](http://nick-lane.net/)
 - [Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves](https://smile.amazon.com/Regenesis-Synthetic-Biology-Reinvent-Ourselves/dp/0465075703) by George Church
 - [A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution](https://smile.amazon.com/dp/1328915360) by Jennifer Doudna and Samuel Sternberg
@@ -58,7 +57,6 @@ TBD
 - [Life at the Speed of Light: From the Double Helix to the Dawn of Digital Life](https://smile.amazon.com/dp/0143125907) by Craig Venter
 - [Evolving Ourselves: Redesigning the Future of Humanity – One Gene at a Time](https://smile.amazon.com/Evolving-Ourselves-Redesigning-Future-Humanity-One/dp/0143108344) by Juan Enriquez and Steve Gullans
 - [The Gene: An Intimate History](https://smile.amazon.com/Gene-Intimate-History-Siddhartha-Mukherjee/dp/147673352X) by Siddhartha Mukherjee
-
 
 # Podcasts
 TBD
