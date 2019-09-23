@@ -31,6 +31,7 @@ TBD
   - Biology
   - Microbiology
   - Understanding Genetics
+  - Biochemistry and Molecular Biology
   - Chemistry and Our Universe
   - Foundations of Organic Chemistry
 - [The Thought Emporium](https://www.youtube.com/user/TheChemlife)
