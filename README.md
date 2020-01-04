@@ -37,6 +37,7 @@ TBD
 - [The Thought Emporium](https://www.youtube.com/user/TheChemlife)
 - [David Ishee](https://www.youtube.com/channel/UCftNyK6c9JdIFTQ2TLQqm_g)
 - [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
+- [Useful Genetics](https://www.youtube.com/channel/UCtXCrx28msMBQ-vFUIOIReA)
 
 # (Audio)books
 - [Primer for Synthetic Biology](https://s3-us-west-2.amazonaws.com/oww-files-public/3/3d/SB_Primer_100707.pdf) by Scott Mohr
