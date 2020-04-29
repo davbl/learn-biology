@@ -15,7 +15,7 @@ Inspired by Elliot Roth and Jeff Xu.
   - [Handbook: Illustrated Guide to Home Biology Experiments](https://www.thehomescientist.com/manuals/Illustrated_Guide_to_Home_Biology_Experiments.pdf)
 
 # MOOCs
-TBD
+TBD (many)
 - [LabXchange](https://www.labxchange.org/)
 
 # Videos
@@ -62,7 +62,7 @@ TBD
 - [The Gene: An Intimate History](https://smile.amazon.com/Gene-Intimate-History-Siddhartha-Mukherjee/dp/147673352X) by Siddhartha Mukherjee
 
 # Podcasts
-TBD
+TBD (many)
 - [Science Disrupt](https://sciencedisrupt.com/)
 
 # Reddit
