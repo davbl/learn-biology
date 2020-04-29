@@ -63,6 +63,7 @@ TBD
 
 # Podcasts
 TBD
+- [Science Disrupt](https://sciencedisrupt.com/)
 
 # Reddit
 - [r/science](https://www.reddit.com/r/science/)
@@ -82,6 +83,7 @@ TBD
 
 # Newsletters
 - [SynBioBeta](https://synbiobeta.com/subscribe/)
+- [Science Disrupt](https://sciencedisrupt.com/)
 
 # Offline
 - [Local DIY bio lab](https://sphere.diybio.org/)
