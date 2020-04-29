@@ -1,16 +1,16 @@
 Inspired by Elliot Roth and Jeff Xu.
 
 # Courses
-- [ODIN](http://www.the-odin.com/science-classes/)
 - [Amino Labs](https://amino.bio/)
   - [Online workshop](https://amino.bio/collections/genetic-engineer-101/products/cyberworkshop)
   - [Udemy class](https://www.udemy.com/handsonbiology/)
+- [ODIN](http://www.the-odin.com/science-classes/)
 - [Synbio School](https://www.synbioschool.com/)
 
 # Kits
-- [ODIN](http://www.the-odin.com/)
 - [Amino Labs](https://amino.bio/)
   - [Handbook: Zero to Genetic Engineering Hero](https://amino.bio/collections/genetic-engineer-101/products/learn-genetic-engineering-the-genetic-engineering-hero-book)
+- [ODIN](http://www.the-odin.com/)
 - [The Home Scientist](https://www.thehomescientist.com/)
   - [Handbook: Illustrated Guide to Home Biology Experiments](https://www.thehomescientist.com/manuals/Illustrated_Guide_to_Home_Biology_Experiments.pdf)
 
