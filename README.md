@@ -82,8 +82,12 @@ TBD
 - [r/MicroPorn](https://www.reddit.com/r/MicroPorn/)
 
 # Newsletters
+- [Nature](https://www.nature.com/)
+- [Science](https://www.sciencemag.org/subscribe/get-our-newsletters)
 - [SynBioBeta](https://synbiobeta.com/subscribe/)
 - [Science Disrupt](https://sciencedisrupt.com/)
+- [Nautilus](http://nautil.us/)
+- [Quanta Magazine](https://www.quantamagazine.org/biology/#newsletter)
 
 # Offline
 - [Local DIY bio lab](https://sphere.diybio.org/)
